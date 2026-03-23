@@ -1,0 +1,10 @@
+{
+    "name": "algoton",
+    "private": true,
+    "scripts": {
+        "build": "cd frontend && npm install --include=dev && npm run build"
+    },
+    "engines": {
+        "node": "20.x"
+    }
+}
